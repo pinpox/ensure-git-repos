@@ -1,0 +1,8 @@
+repositories:
+  - local_path: ~/code/github.com/pinpox/ensure-git-repos
+    remotes:
+      origin: git@github.com:pinpox/ensure-git-repos.git
+
+  - local_path: ~/code/github.com/pinpox/nixos
+    remotes:
+      origin: git@github.com:pinpox/nixos.git
